@@ -1,0 +1,27 @@
+.img{
+    width: 300px;
+    height: 200px;
+ border-radius: 15px;   
+
+}
+.home-card{
+    box-shadow: 10px 10px 30px lightgreen;
+    margin: 10px 20px;
+}
+.home-button{
+
+}
+.home-button{
+    width: 120px;
+    padding: 10px 8px;
+    border-radius: 8px;
+    background-color:lightgreen;
+    color:green;
+    border: none;
+    font-size:18px ;
+    transition: 0.6s;
+}
+.home-button:hover{
+    background-color: green;
+    color: white;
+}

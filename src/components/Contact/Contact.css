@@ -1,0 +1,24 @@
+.contacts{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0px;
+}
+.inputs{
+    background-color: #b8f1b8;
+    width:100% ;
+    padding: 15px 10px;
+    border-radius: 8px;
+    border: green;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #0a420a;
+    transition: 0.6s;
+}
+.text{
+    height: 100px;
+}
+
+.addresses h3{
+padding: 10px 0px;
+color:#0a420a;
+}

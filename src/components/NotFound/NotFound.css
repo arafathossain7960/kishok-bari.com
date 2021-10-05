@@ -1,0 +1,21 @@
+.notFond{
+    background-color:lightgray;
+    width: 100%;
+    height: 350px;
+  
+}
+.notFond h1{
+    padding: 20px 0px;
+      text-align: center;
+      color: green;
+      font-size: 40px;
+}
+
+.notFond h3{
+text-align: center;
+
+}
+.notFond span{
+    font-size: 40px;
+    color:red;
+}

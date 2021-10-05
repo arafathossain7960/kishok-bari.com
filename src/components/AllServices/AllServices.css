@@ -1,0 +1,19 @@
+.courseBtn{
+    width: 100px;
+    padding: 10px 5px;
+
+}
+.courseBtn{
+    width: 150px;
+    padding: 10px 8px;
+    border-radius: 8px;
+    background-color: #0a420a;
+    color:white;
+    border: none;
+    font-size:18px ;
+    transition: 0.6s;
+}
+.courseBtn:hover{
+    background-color: lightgreen;
+    color: #0a420a;
+}
