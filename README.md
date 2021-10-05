@@ -1,6 +1,6 @@
 # welcome to kihsok bari.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Name : kishok bari.com](https://brave-johnson-9b3a9c.netlify.app/).
 
 ### World wide Agriculture training institute
 We will provide all type of agriculture firming Training.
@@ -25,7 +25,7 @@ We believe good food is a key of happiness for every human.
 that's why you must produce something good by your hand.
 
 ### please visit our site and see the feature
-website link ()
+website link (https://brave-johnson-9b3a9c.netlify.app/)
 
 
 
